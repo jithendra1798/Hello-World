@@ -4,7 +4,7 @@
 1. Jithendra Puppala
 
 ## Members allowed in club
-- We have an upperlimit of members and we will prepare recruitment process
+- We have an upperlimit of members and we will prepare recruitment process once the club has passed.
 
 ## Preferred mode of communication
 - Email
