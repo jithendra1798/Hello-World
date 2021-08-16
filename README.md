@@ -35,7 +35,11 @@ We are planning the activities of the club. Some of them are :
 5. The club meets every 1st and 3rd week to discuss the progress and work on projects.
 
 ## Rules
-
+1. Co-ordinate with each member of the club.
+2. Great enthusiasm to learn new technologies and share knowledge with others.
+3. f
+4. f
+> *Rules are subject to change according the requirements of the club.*
 
 ## Requirements
 1. It will be very helpful, if we can have a faculty advisor from IITM BSc.
