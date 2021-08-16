@@ -43,4 +43,4 @@ We are planning the activities of the club. Some of them are :
 ## Requirements
 1. It will be very helpful, if we can have a faculty advisor from IITM BSc.
 2. We need a website and email domain name like **codingclub-iitm-kaziranga/onlinedegree.iitm.ac.in**, this will be helpful for maintaining professionalism of the club.
-3. We need access to some resources like books, articles or papers from IITM e-library, to make the club members more knowledgeable.
+3. We need access to some resources like books, articles or papers from IITM e-library for students of IITM onlinedegree.
