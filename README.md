@@ -39,7 +39,7 @@ We are planning the activities of the club. Some of them are :
 2. Great enthusiasm to learn new technologies and share knowledge with others.
 3. f
 4. f
-> *Rules are subject to change according the requirements of the club.*
+> *Rules are subject to change according to the future requirements of the club.*
 
 ## Requirements
 1. It will be very helpful, if we can have a faculty advisor from IITM BSc.
