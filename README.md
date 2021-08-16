@@ -2,6 +2,8 @@
 
 ## Members Proposing the document
 1. Jithendra Puppala
+2. Noufal Rehman
+3. 
 
 ## Members allowed in club
 - We have an upperlimit of members and we will prepare recruitment process once the club has passed.
