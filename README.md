@@ -33,6 +33,7 @@ We are planning the activities of the club. Some of them are :
 3. Workshops on latest technologies.
 4. Technical talks on various competitions like GSoC, Codejam etc.
 5. The club meets every 1st and 3rd week to discuss the progress and work on projects.
+> *Activities may increase, as we progress further.* 
 
 ## Rules
 1. Co-ordinate with other members of the club to do the projects and to organize workshops and events.
