@@ -40,3 +40,4 @@ We are planning the activities of the club. Some of them are :
 ## Requirements
 1. It will be very helpful, if we can have a faculty advisor from IITM BSc.
 2. We need a domain name like **codingclub-iitm-kaziranga/onlinedegree.iitm.ac.in**, this will be helpful for professionalism of the club.
+3. 
