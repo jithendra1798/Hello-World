@@ -1,6 +1,4 @@
-# <p align="center">
-Coding Club Kaziranga IITM
-</p>
+# Coding Club Kaziranga IITM
 
 ## Members Proposing the document
 1. Jithendra Puppala
