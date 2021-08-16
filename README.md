@@ -38,7 +38,7 @@ We are planning the activities of the club. Some of them are :
 ## Rules
 1. Co-ordinate with other members of the club to do the projects and to organize workshops and events.
 2. Great enthusiasm to learn new technologies and apply them.
-> *Rules are subject to change according to the future requirements of the club.*
+> *Rules are subject to change according to the future plans and requirements of the club.*
 
 ## Requirements
 1. It will be very helpful, if we can have a faculty advisor from IITM BSc.
