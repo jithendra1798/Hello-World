@@ -13,8 +13,8 @@
 
 ## Vision
 1. To give students the skills, confidence and opportunity to change their world.
-2. This club will be mother some interesting projects and workshop sessions to enhance the learning experience of students in Online degree.
-3. This club is important because it can bridges the gap between theory and practical aspects of coding domain.
+2. This club will be the mother of some interesting projects and workshop sessions to enhance the learning experience of students in Online degree.
+3. This club is important, because it can bridges the gap between theory and practical aspects of coding domain.
 4. Expectations of memberes :
         - Part of a caring community of leaders who are interested in programming and solving real world problems.
         - Involved in meaningful projects which will foster their knowledge.
