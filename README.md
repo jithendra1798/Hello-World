@@ -35,13 +35,11 @@ We are planning the activities of the club. Some of them are :
 5. The club meets every 1st and 3rd week to discuss the progress and work on projects.
 
 ## Rules
-1. Co-ordinate with each member of the club.
-2. Great enthusiasm to learn new technologies and share knowledge with others.
-3. f
-4. f
+1. Co-ordinate with other members of the club to do the projects and to organize workshops and events.
+2. Great enthusiasm to learn new technologies and apply them.
 > *Rules are subject to change according to the future requirements of the club.*
 
 ## Requirements
 1. It will be very helpful, if we can have a faculty advisor from IITM BSc.
-2. We need a domain name like **codingclub-iitm-kaziranga/onlinedegree.iitm.ac.in**, this will be helpful for professionalism of the club.
-3. 
+2. We need a website and email domain name like **codingclub-iitm-kaziranga/onlinedegree.iitm.ac.in**, this will be helpful for maintaining professionalism of the club.
+3. We need access to some resources like books, articles or papers from IITM e-library, to make the club members more knowledgeable.
